@@ -1,4 +1,4 @@
-# unifi_exporter
+# sensor_exporter
 
 Containerised version of [sensor_exporter](https://github.com/andmarios/sensor_exporter)
 

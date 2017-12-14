@@ -10,6 +10,7 @@ Set $ARGUMENTS with your desired command arguments to pass to sensor_exporter
 #### 0.0.1
 
 - 2017-12-14 :: Initial release
+
 ---
 
 
@@ -18,4 +19,5 @@ Set $ARGUMENTS with your desired command arguments to pass to sensor_exporter
 ```
 docker run -d -p 9091:9091 -v /sys:/sys:ro b3vis/sensor_exporter
 ```
+
 ---
